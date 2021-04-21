@@ -9,3 +9,4 @@ The Google Colab setup is available at -
 In order to run the Colab notebook, the data and model files will also be required. All files are available at the below Drive location. This needs to be mounted in the Colab - 
 > https://drive.google.com/drive/folders/1OjcrCeZmTdFccV7FCUJHbVVN2cdGPzqi?usp=sharing
 
+Alternatively, you can download the folder from the Drive and run the script locally on a CUDA-enabled GPU.
